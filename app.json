@@ -1,6 +1,9 @@
 {
   "expo": {
     "name": "urql-repro",
-    "slug": "urql-repro"
+    "slug": "urql-repro",
+    "web": {
+      "bundler": "metro"
+    }
   }
 }

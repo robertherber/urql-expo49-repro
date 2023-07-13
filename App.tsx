@@ -1,4 +1,8 @@
+import client from './urql'
+
 import { StyleSheet, Text, View } from 'react-native';
+
+const urql = client({ token: 'sdfg' })
 
 export default function App() {
   return (
